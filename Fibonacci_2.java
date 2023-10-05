@@ -7,7 +7,7 @@ class Fibonacci_2 {
 		System.out.println();
 		fibonacci3(cantidad);
 	}
-	/*dada
+	/*
 		Utilizamos el bucle for
 	*/
 	
